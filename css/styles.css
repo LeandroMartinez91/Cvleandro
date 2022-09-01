@@ -1,8 +1,12 @@
-
+@import https://fonts.google.com/specimen/Roboto; /*importamos la fuente*/
 h1{
     color:rgba(0, 0, 255, 0.582);
     text-align:center ;
+    font-family:´Roboto´ , monospace; /*utilizamos la fuente importada*/
 }
 #informacionConta{
 color: blue;
+}
+#imagen{
+    text-align: center;
 }
